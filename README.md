@@ -18,5 +18,7 @@ The overall architecture of the network can seen below.
     <br />
     <br />
 
- Then the Procedure is repeated for NotMNIST Dataset aswell![Screenshot (1102)](https://github.com/user-attachments/assets/17605519-d7d5-4d2c-8482-cd4e7ca91e90)
-. ![Screenshot (1101)](https://github.com/user-attachments/assets/3000afb0-ed9b-419a-a610-1b3acd76b3e0)
+ Then the Procedure is repeated for NotMNIST Dataset aswell.
+     <br />
+ ![Screenshot (1102)](https://github.com/user-attachments/assets/17605519-d7d5-4d2c-8482-cd4e7ca91e90)
+ ![Screenshot (1101)](https://github.com/user-attachments/assets/3000afb0-ed9b-419a-a610-1b3acd76b3e0)
