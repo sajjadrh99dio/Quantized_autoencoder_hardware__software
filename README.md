@@ -8,7 +8,8 @@ This Project shows all the necessary steps for Hardware implementation of Neural
   <br />
 In this project an auto-encoder model for compressing images is first trained using MNIST Dataset (for comparisons), then a quantized model is trained using quantized inputs and quantization-aware training. Afterwards, the weights of the quantized model is saved and the model is implemented in SystemVerilog.
  <br />
- ** Please note that the selected bitwidth for weights is 7 bits but can be easily altered.
+  <br />
+ **Please note that the selected bitwidth for weights is 7 bits but can be easily altered.**
  <br />
   <br />
 The overall architecture of the network can seen below.
@@ -20,4 +21,5 @@ The overall architecture of the network can seen below.
 
  Then the Procedure is repeated for NotMNIST Dataset aswell.
      <br />
+      <br />
 ![Screenshot (1103)](https://github.com/user-attachments/assets/bcae3a65-3c7e-4a88-9d8d-109989245c3d)
