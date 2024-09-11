@@ -11,4 +11,5 @@ In this project an auto-encoder model for compressing images is first trained us
  ** Please note that the selected bitwidth for weights is 7 bits but can be easily altered.
  <br />
   <br />
-  Then the Procedure is repeated for NotMNIST Dataset aswell
+  Then the Procedure is repeated for NotMNIST Dataset aswell. The overall architecture of the network can seen below.
+![Screenshot (1099)](https://github.com/user-attachments/assets/af6e3d1e-5cfe-49e1-b573-83c4ea57da2d)
