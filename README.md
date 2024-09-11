@@ -22,4 +22,4 @@ The overall architecture of the network can seen below.
  Then the Procedure is repeated for NotMNIST Dataset aswell.
      <br />
       <br />
-<img "https://github.com/user-attachments/assets/bcae3a65-3c7e-4a88-9d8d-109989245c3d" width="600" height="300" />
+<img src="https://github.com/user-attachments/assets/bcae3a65-3c7e-4a88-9d8d-109989245c3d" width="600" height="300" />
