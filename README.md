@@ -13,4 +13,4 @@ In this project an auto-encoder model for compressing images is first trained us
   <br />
   Then the Procedure is repeated for NotMNIST Dataset aswell. The overall architecture of the network can seen below.
     <br />
-<img src="https://github.com/user-attachments/assets/af6e3d1e-5cfe-49e1-b573-83c4ea57da2d" width="400" height="200" />
+<img src="https://github.com/user-attachments/assets/af6e3d1e-5cfe-49e1-b573-83c4ea57da2d" width="600" height="300" />
